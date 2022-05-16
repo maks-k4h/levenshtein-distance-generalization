@@ -43,6 +43,5 @@ int main() {
 
     std::cout << "words d(text1,text2) = "
         << editDistance(text1_tokens, text2_tokens) << '\n';
-
     return 0;
 }
